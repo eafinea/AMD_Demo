@@ -1,0 +1,67 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:8888"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/Urls/shorten",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Urls/shorten",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7113
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/Urls",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Urls/list?{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7113
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/Urls/{shortCode}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/Urls/{shortCode}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7113
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/{shortCode}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Urls/{shortCode}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7113
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/Urls/refresh",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Urls/refresh",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7113
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\appsettings.json
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\gateway.json
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\api-gateway.exe
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\api-gateway.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Ocelot.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\University Resources\Summer semester\repos\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.dll
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+D:\University Resources\Summer semester\repos\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\appsettings.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\gateway.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\api-gateway.exe
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Ocelot.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\repos\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\appsettings.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\gateway.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\api-gateway.exe
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Ocelot.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\appsettings.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\gateway.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\api-gateway.exe
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Ocelot.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+E:\IT_Greenwich\Advanced Microservices Development and Deployment\Codes\Coursework\reposv2(2)\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
